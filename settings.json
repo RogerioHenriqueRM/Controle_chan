@@ -1,0 +1,280 @@
+{
+  "CloseToTray": false,
+  "ShowAll": false,
+  "HidGuardianEnabled": false,
+  "DisableAutoRefresh": false,
+  "Language": "English",
+  "Input": {
+    "ac9b6ad0-e212-11ef-8001-444553540000": {
+      "ForceFeedback": false
+    },
+    "Keyboard": {
+      "ForceFeedback": false
+    },
+    "Mouse": {
+      "ForceFeedback": false
+    }
+  },
+  "Mapping": [
+    {
+      "StartWhenConnected": true,
+      "Name": "Controller",
+      "Id": "8a54e6ae-e3ec-4f16-a568-2540e27af74d",
+      "ForceFeedbackDevice": "ac9b6ad0-e212-11ef-8001-444553540000",
+      "Mappings": {
+        "A": {
+          "Mappers": [
+            {
+              "InputDevice": "ac9b6ad0-e212-11ef-8001-444553540000",
+              "InputType": "24",
+              "MinValue": 0.0,
+              "MaxValue": 1.0,
+              "Deadzone": 0.0
+            }
+          ],
+          "CenterPoint": 0.0
+        },
+        "B": {
+          "Mappers": [
+            {
+              "InputDevice": "ac9b6ad0-e212-11ef-8001-444553540000",
+              "InputType": "25",
+              "MinValue": 0.0,
+              "MaxValue": 1.0,
+              "Deadzone": 0.0
+            }
+          ],
+          "CenterPoint": 0.0
+        },
+        "X": {
+          "Mappers": [
+            {
+              "InputDevice": "ac9b6ad0-e212-11ef-8001-444553540000",
+              "InputType": "27",
+              "MinValue": 0.0,
+              "MaxValue": 1.0,
+              "Deadzone": 0.0
+            }
+          ],
+          "CenterPoint": 0.0
+        },
+        "Y": {
+          "Mappers": [
+            {
+              "InputDevice": "ac9b6ad0-e212-11ef-8001-444553540000",
+              "InputType": "26",
+              "MinValue": 0.0,
+              "MaxValue": 1.0,
+              "Deadzone": 0.0
+            }
+          ],
+          "CenterPoint": 0.0
+        },
+        "L1": {
+          "Mappers": [
+            {
+              "InputDevice": "ac9b6ad0-e212-11ef-8001-444553540000",
+              "InputType": "28",
+              "MinValue": 0.0,
+              "MaxValue": 1.0,
+              "Deadzone": 0.0
+            }
+          ],
+          "CenterPoint": 0.0
+        },
+        "R1": {
+          "Mappers": [
+            {
+              "InputDevice": "ac9b6ad0-e212-11ef-8001-444553540000",
+              "InputType": "29",
+              "MinValue": 0.0,
+              "MaxValue": 1.0,
+              "Deadzone": 0.0
+            }
+          ],
+          "CenterPoint": 0.0
+        },
+        "L3": {
+          "Mappers": [
+            {
+              "InputDevice": "ac9b6ad0-e212-11ef-8001-444553540000",
+              "InputType": "34",
+              "MinValue": 0.0,
+              "MaxValue": 1.0,
+              "Deadzone": 0.0
+            }
+          ],
+          "CenterPoint": 0.0
+        },
+        "R3": {
+          "Mappers": [
+            {
+              "InputDevice": "ac9b6ad0-e212-11ef-8001-444553540000",
+              "InputType": "35",
+              "MinValue": 0.0,
+              "MaxValue": 1.0,
+              "Deadzone": 0.0
+            }
+          ],
+          "CenterPoint": 0.0
+        },
+        "Start": {
+          "Mappers": [
+            {
+              "InputDevice": "ac9b6ad0-e212-11ef-8001-444553540000",
+              "InputType": "33",
+              "MinValue": 0.0,
+              "MaxValue": 1.0,
+              "Deadzone": 0.0
+            }
+          ],
+          "CenterPoint": 0.0
+        },
+        "Back": {
+          "Mappers": [
+            {
+              "InputDevice": "ac9b6ad0-e212-11ef-8001-444553540000",
+              "InputType": "33",
+              "MinValue": 0.0,
+              "MaxValue": 1.0,
+              "Deadzone": 0.0
+            }
+          ],
+          "CenterPoint": 0.0
+        },
+        "Home": {
+          "Mappers": [
+            {
+              "InputDevice": "ac9b6ad0-e212-11ef-8001-444553540000",
+              "InputType": "32",
+              "MinValue": 0.0,
+              "MaxValue": 0.0,
+              "Deadzone": 0.0
+            }
+          ],
+          "CenterPoint": 0.0
+        },
+        "LX": {
+          "Mappers": [
+            {
+              "InputDevice": "ac9b6ad0-e212-11ef-8001-444553540000",
+              "InputType": "4",
+              "MinValue": 0.0,
+              "MaxValue": 1.0,
+              "Deadzone": 0.0
+            }
+          ],
+          "CenterPoint": 0.0
+        },
+        "LY": {
+          "Mappers": [
+            {
+              "InputDevice": "ac9b6ad0-e212-11ef-8001-444553540000",
+              "InputType": "0",
+              "MinValue": 0.0,
+              "MaxValue": 1.0,
+              "Deadzone": 0.0
+            }
+          ],
+          "CenterPoint": 0.0
+        },
+        "RX": {
+          "Mappers": [
+            {
+              "InputDevice": "ac9b6ad0-e212-11ef-8001-444553540000",
+              "InputType": "12",
+              "MinValue": 0.5,
+              "MaxValue": 0.5,
+              "Deadzone": 0.0
+            }
+          ],
+          "CenterPoint": 0.0
+        },
+        "RY": {
+          "Mappers": [
+            {
+              "InputDevice": "ac9b6ad0-e212-11ef-8001-444553540000",
+              "InputType": "12",
+              "MinValue": 0.5,
+              "MaxValue": 0.5,
+              "Deadzone": 0.0
+            }
+          ],
+          "CenterPoint": 0.0
+        },
+        "L2": {
+          "Mappers": [
+            {
+              "InputDevice": "ac9b6ad0-e212-11ef-8001-444553540000",
+              "InputType": "30",
+              "MinValue": 0.0,
+              "MaxValue": 1.0,
+              "Deadzone": 0.0
+            }
+          ],
+          "CenterPoint": 0.0
+        },
+        "R2": {
+          "Mappers": [
+            {
+              "InputDevice": "ac9b6ad0-e212-11ef-8001-444553540000",
+              "InputType": "31",
+              "MinValue": 0.0,
+              "MaxValue": 1.0,
+              "Deadzone": 0.0
+            }
+          ],
+          "CenterPoint": 0.0
+        },
+        "UP": {
+          "Mappers": [
+            {
+              "InputDevice": "ac9b6ad0-e212-11ef-8001-444553540000",
+              "InputType": "1000",
+              "MinValue": 0.0,
+              "MaxValue": 1.0,
+              "Deadzone": 0.0
+            }
+          ],
+          "CenterPoint": 0.0
+        },
+        "DOWN": {
+          "Mappers": [
+            {
+              "InputDevice": "ac9b6ad0-e212-11ef-8001-444553540000",
+              "InputType": "1001",
+              "MinValue": 0.0,
+              "MaxValue": 1.0,
+              "Deadzone": 0.0
+            }
+          ],
+          "CenterPoint": 0.0
+        },
+        "LEFT": {
+          "Mappers": [
+            {
+              "InputDevice": "ac9b6ad0-e212-11ef-8001-444553540000",
+              "InputType": "1002",
+              "MinValue": 0.0,
+              "MaxValue": 1.0,
+              "Deadzone": 0.0
+            }
+          ],
+          "CenterPoint": 0.0
+        },
+        "RIGHT": {
+          "Mappers": [
+            {
+              "InputDevice": "ac9b6ad0-e212-11ef-8001-444553540000",
+              "InputType": "1003",
+              "MinValue": 0.0,
+              "MaxValue": 1.0,
+              "Deadzone": 0.0
+            }
+          ],
+          "CenterPoint": 0.0
+        }
+      }
+    }
+  ]
+}

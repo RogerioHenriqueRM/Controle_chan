@@ -1,0 +1,29 @@
+Faça a instalação desses arquivos:
+
+1 - ViGEmBus_1.22.0_x64_x86_arm64
+
+2 - dotnet-sdk-8.0.303-win-x64 
+
+
+"Recomendação" - Crie uma pasta somente para o XOutput, pois ele cria arquivos que não devem ser deletados!
+
+
+Abra o XOutput, faça a configuração que desejar e Salve! 
+
+Sempre que for jogar, lembre-se de abrir o XOutput e clicar em "Start", de preferência, antes de iniciar o jogo!
+
+
+!!!Atenção!!!
+
+Se tiver problemas de funcionamento pode ser que seu computador não tenha:
+
+- Visual C++ Visual Studio 2015 de 32 bits
+- Visual C++ Visual Studio 2015 de 64 bits
+- DirectX 
+- Driver Xbox 360 x64
+
+Caso não tenha:
+
+A pasta "X" possui todos eles! Faça a instalação um por um e verifique se o problema foi sanado! 
+
+Atualizei os arquivos em 31/07/2024

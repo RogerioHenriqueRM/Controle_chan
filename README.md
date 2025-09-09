@@ -1,4 +1,4 @@
 # Controle_chan
 
 #sobre
--leia o arquivo leia me.txt
+-leia o arquivo Me leia.txt
